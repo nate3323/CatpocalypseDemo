@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb99adf0275315242b515b3dc136363f, type: 3}
+  m_Name: TowerInfo - Yarn Ball Tower
+  m_EditorClassIdentifier: 
+  TowerType: 4
+  DisplayName: Yarn Ball Tower
+  Icon: {fileID: 21300000, guid: a89a30f511667484da7d5a5b74e77231, type: 3}
+  Cost: 200
+  Damage: 5
+  Range: 3
+  AOE_Range: 3
+  FireRate: 0
+  CoolDown: 5
+  UpgradeCost: 3
+  Upgrade: 
+  Special: Ball Shotgun
+  Description: 'The Yarn Ball tower shoots a yarn ball very fast towards a cat, which
+    makes it chase it. This distracts the cat a lot.
+
+
+    Kitties love yarn balls,
+    so let''s exploit that by firing speedy yarn balls at them so they''ll have to
+    chase them off the garden in awe!'

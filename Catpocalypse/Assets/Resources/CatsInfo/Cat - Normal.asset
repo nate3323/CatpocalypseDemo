@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfedea3a4133f7146b4da6b9aae32c28, type: 3}
+  m_Name: Cat - Normal
+  m_EditorClassIdentifier: 
+  CatType: 1
+  DisplayName: Normal Cat
+  Size: 4
+  Speed: 3
+  SpawnRate: 3
+  HP: 3
+  PayOnDistraction: 2
+  Icon: {fileID: 21300000, guid: 21a0fa6d09ef41145803b25f2162f0b0, type: 3}
+  CatImage: {fileID: 21300000, guid: 21a0fa6d09ef41145803b25f2162f0b0, type: 3}
+  Special: None
+  Description: As a normal cat, it has no special ability and just follows the path
+    normally. They're just along for the ride!

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb99adf0275315242b515b3dc136363f, type: 3}
+  m_Name: TowerInfo - NonAllergicTower
+  m_EditorClassIdentifier: 
+  TowerType: 5
+  DisplayName: 'Non-Allergic Tower '
+  Icon: {fileID: 21300000, guid: fbef068844dcd93469cb7ab3dedd8346, type: 3}
+  Cost: 200
+  Damage: 2
+  Range: 2
+  AOE_Range: 2
+  FireRate: 1
+  CoolDown: 4
+  UpgradeCost: 4
+  Upgrade: Spawns more minions
+  Special: Spawns minions to distract cats
+  Description: Call upon your non-allergic friends to help fend off the cats

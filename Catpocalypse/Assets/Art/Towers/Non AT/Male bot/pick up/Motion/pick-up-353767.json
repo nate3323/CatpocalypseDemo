@@ -1,0 +1,17 @@
+﻿{
+    "pick-up-353767": {
+        "Version": "1.10.1822.1",
+        "Scene": {
+            "Name": true,
+            "SupportShaderSelect": true
+        },
+        "Export Directory": "C:/RLConverterServices/RLConverter/TempData/Convert/dbcd9b66f7a0ec4/JIC860720a964be32503",
+        "Object": {
+            "pick-up-353767": {
+                "Generation": "AccuRig",
+                "Physics": {},
+                "Meshes": {}
+            }
+        }
+    }
+}

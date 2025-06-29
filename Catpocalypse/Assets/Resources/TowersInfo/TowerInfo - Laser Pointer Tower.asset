@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb99adf0275315242b515b3dc136363f, type: 3}
+  m_Name: TowerInfo - Laser Pointer Tower
+  m_EditorClassIdentifier: 
+  TowerType: 0
+  DisplayName: Laser Pointer Tower
+  Icon: {fileID: 21300000, guid: 78740ddda3c962e4b988b0d61dc945a7, type: 3}
+  Cost: 150
+  Damage: 0
+  Range: 2
+  AOE_Range: 4
+  FireRate: 2
+  CoolDown: 0
+  UpgradeCost: 5
+  Upgrade: Adds more lasers
+  Special: The tower's laser pointer can distract a specified type of cat to another
+    lane/road!
+  Description: 'The laser tower deals no distraction and starts already built on
+    the map, it''s main use is to lead types of cats to another lane/road for the
+    player.
+
+
+    It''s common knowledge that a cat will follow laser pointers, making
+    this tower the perfect path diversion machine!'

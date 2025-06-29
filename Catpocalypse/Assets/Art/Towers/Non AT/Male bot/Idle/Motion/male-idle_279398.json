@@ -1,0 +1,17 @@
+﻿{
+    "male-idle_279398": {
+        "Version": "1.10.1822.1",
+        "Scene": {
+            "Name": true,
+            "SupportShaderSelect": true
+        },
+        "Export Directory": "C:/RLConverterServices/RLConverter/TempData/Convert/f5612f88b2376af2/JIC6fe7bb4335559b384",
+        "Object": {
+            "male-idle_279398": {
+                "Generation": "AccuRig",
+                "Physics": {},
+                "Meshes": {}
+            }
+        }
+    }
+}

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb99adf0275315242b515b3dc136363f, type: 3}
+  m_Name: TowerInfo - String Waver Tower
+  m_EditorClassIdentifier: 
+  TowerType: 3
+  DisplayName: String Waver Tower
+  Icon: {fileID: 21300000, guid: d510c03442b95164a98d001fadb3015f, type: 3}
+  Cost: 200
+  Damage: 5
+  Range: 2
+  AOE_Range: 6
+  FireRate: 0
+  CoolDown: 6
+  UpgradeCost: 0
+  Upgrade: 
+  Special: High AOE damage
+  Description: 'The string waver tower makes a ball of yarn and waves it in an hypnotic
+    pattern, causing distraction per second to nearby cats while it''s waving the
+    ball.
+
+
+    A cat can watch a granny weave for hours. We don''t have any granny
+    towers, but this string weaver would do just fine to distract nearby felines!'

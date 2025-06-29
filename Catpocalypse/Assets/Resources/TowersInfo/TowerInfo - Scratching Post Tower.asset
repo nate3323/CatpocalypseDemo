@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb99adf0275315242b515b3dc136363f, type: 3}
+  m_Name: TowerInfo - Scratching Post Tower
+  m_EditorClassIdentifier: 
+  TowerType: 1
+  DisplayName: Scratching Post Tower
+  Icon: {fileID: 21300000, guid: 19a3f3d98c5c8534fa64c336259adef7, type: 3}
+  Cost: 125
+  Damage: 1
+  Range: 3
+  AOE_Range: 3
+  FireRate: 1
+  CoolDown: 7
+  UpgradeCost: 4
+  Upgrade: 
+  Special: Slows all affected cats
+  Description: 'This tower launches itself as a rocket near the cats, slowing all
+    cats as they get tempted to rub themselves on it!
+
+
+    Cats love scratches and
+    can never say no to them. These scratch-post projectiles should keep them pinned
+    on contact!'

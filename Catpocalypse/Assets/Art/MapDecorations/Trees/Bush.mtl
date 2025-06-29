@@ -1,0 +1,45 @@
+# Blender 4.0.2 MTL File: 'my gen trees.blend'
+# www.blender.org
+
+newmtl Tree_leafs.002
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.172018 0.095127 0.129032
+Ks 0.080000 0.080000 0.080000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Trunk.007
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Bush tex color.png
+map_Bump -bm 0.100000 Bush tex Normal.png
+
+newmtl Trunk.008
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Bush tex color.png
+map_Bump -bm 0.100000 Bush tex Normal.png
+
+newmtl Trunk.009
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Bush tex color.png
+map_Bump -bm 0.100000 Bush tex Normal.png
